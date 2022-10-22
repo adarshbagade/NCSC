@@ -1,0 +1,53 @@
+body{
+    background-image:url("bg.jpg")
+}
+.myheading{
+    background-color: darkgreen;
+    border:solid;
+    border-width: 5px;
+    font-size:large;
+    
+    display:flex;
+    justify-content: space-between;
+    
+}
+h1{
+    color:rgb(255, 251, 0);
+    margin-right:30% ;
+}
+img{
+    margin-right:1% ;
+}
+
+.title{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size:50px ;
+    border:solid;
+    border-width: 5px;
+    background-color: green;
+
+   
+    margin-top: 20px;
+    display:flex;
+    justify-content: space-between;
+}
+
+p2{
+    font-family:cursive;
+    font-size:40px ;
+    margin-right:5% ;
+}
+.Introduction{
+    background-color: aqua;
+    position:fixed;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:40px
+    
+}
+
+
+
+
+
